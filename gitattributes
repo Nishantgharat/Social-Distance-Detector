@@ -1,3 +1,6 @@
-*. python linguist-detectable=true
-*. html linguist-detectable=false
+*.py linguist-detectable=true
+*.html linguist-detectable=false
+*.HTML linguist-detectable=false
+*.xml linguist-detectable=false
+
 
